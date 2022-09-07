@@ -16,34 +16,34 @@
 
 ## Ключевые навыки
 
-FreeBSD
-RedHat/CentOS
-Debian/Ubuntu
-MySQL
-Radius
-LDAP
-Bash
-Redis
-Python
-Perl
-PHP
-Git
-Nginx
-vSphere ESXi
-HPe LeftHand
-REST API
-Docker
-OpenAPI/Swagger
-Ansible
-GitHub CI/CD
-GitLab CI/CD
-Jenkins
-Terraform
-Prometheus
-Grafana
-RabbitMQ
-Apache Kafka
-Hugo
+  FreeBSD
+| RedHat/CentOS
+| Debian/Ubuntu
+| MySQL
+| Radius
+| LDAP
+| Bash
+| Redis
+| Python
+| Perl
+| PHP
+| Git
+| Nginx
+| vSphere ESXi
+| HPe LeftHand
+| REST API
+| Docker
+| OpenAPI/Swagger
+| Ansible
+| GitHub CI/CD
+| GitLab CI/CD
+| Jenkins
+| Terraform
+| Prometheus
+| Grafana
+| RabbitMQ
+| Apache Kafka
+| Hugo
 
 ## Опыт работы
 
