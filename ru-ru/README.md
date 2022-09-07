@@ -33,6 +33,8 @@
 | HPe LeftHand
 | REST API
 | Docker
+| docker-compouse
+| k8s
 | OpenAPI/Swagger
 | Ansible
 | GitHub CI/CD
