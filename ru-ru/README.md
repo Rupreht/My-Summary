@@ -28,7 +28,7 @@
 | Python
 | PHP
 | Nginx
-| Radius
+| FreeRADIUS
 | vSphere ESXi
 | HPe LeftHand
 | Docker
